@@ -7,3 +7,8 @@ Projeyi kurmak için aşağıdaki adımları izleyin:
 ```bash
 npm install
 npm run dev
+```
+
+## Test Bölümü
+npm run test
+
