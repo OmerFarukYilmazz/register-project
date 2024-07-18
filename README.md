@@ -10,5 +10,14 @@ npm run dev
 ```
 
 ## Test Bölümü
-npm run test
+Projeyi test etmek için aşağıdaki adımları izleyin:
 
+```bash
+npm run test
+```
+## Lisans Bölümü:
+Lisanlar
+
+```markdown
+MIT
+```
