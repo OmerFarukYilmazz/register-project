@@ -1,0 +1,11 @@
+{
+    "eslint.debug": false,
+    "eslint.enable": true,
+    "eslint.format.enable": false,
+    "eslint.problems.shortenToSingleLine": false,
+    "eslint.quiet": false,
+    "eslint.ignoreUntitled": false,
+    "eslint.lintTask.enable": false,
+    "eslint.onIgnoredFiles": "off",
+    "eslint.rules.customizations": []
+}
